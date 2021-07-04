@@ -323,6 +323,9 @@ a {
 	transition: all linear .3s;
 }
 
+.overlay li:last-child a{
+	margin-bottom: 0rem;
+}
 .team h3,
 .test-h3 {
 	font-family: 'Oswald', sans-serif;
@@ -480,8 +483,8 @@ a {
 
 .top i a {
 	display: block;
-
 }
+/* ==============Responsive============== */
 @media only screen and (max-width: 992px){
 	.top{
 		position: fixed;
@@ -495,3 +498,18 @@ a {
 		border-radius: .5rem;
 	}
 }
+
+@media only screen and (max-width: 575.99px){
+	.s-pad{
+		margin-bottom: 2rem;
+	}
+}
+@media only screen and (max-width: 424.99px){
+	.overlay a{
+		padding:0.5rem;
+	}
+}	
+	
+	
+	
+	
