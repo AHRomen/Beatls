@@ -3,7 +3,7 @@
 Welcome to **Beatls**, a platform where you can hire talented developers for your projects! Whether you're looking for a web developer, mobile developer, or any other tech expert, **Beatls** connects you with professionals who can bring your ideas to life.
 
 ## Live Website
-You can access the live version of **Beatls** here: [https://ahromen.github.io/Beatls](https://ahromen.github.io/Beatls)
+You can access the live version of **Beatls** [here:](https://ahromen.github.io/Beatls)
 
 ## Features
 
